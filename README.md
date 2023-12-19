@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Polina!👋</h1>
+<h1 align="left">Hey, I'm Polina!👋</h1>
 
 I'm a fourth-year student at Toronto Metropolitan University
 
