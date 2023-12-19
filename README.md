@@ -3,7 +3,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pvalia&show_icons=true&locale=en&layout=compact" alt="pvalia" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pvalia&show_icons=true&locale=en" alt="pvalia" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pvalia&" alt="pvalia" /></p>
 
 <h2 align="left">Languages and Tools:</h2>
 <h3 align="left">Programming:</h3>
@@ -24,7 +24,6 @@
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 </p>
-
 
 <h3 align="left">Backend Development:</h3>
 <p align="left">
