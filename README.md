@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Polina!👋</h1>
-<br />
+
 I'm a fourth-year student at Toronto Metropolitan University
 
 **About me**
