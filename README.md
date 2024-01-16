@@ -8,5 +8,5 @@ I'm a fourth-year student at Toronto Metropolitan University
   
 - 📧 You can reach me at [pvaliakhmetova@gmail.com](pvaliakhmetova@gmail.com)
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pvalia&&hide_border=true" alt="pvalia" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvalia&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pvalia&&hide_border=true" alt="pvalia" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvalia&layout=compact&theme=buefy&hide_border=true&exclude_repo=Movie-Reccomender,job-rec" /></a> |
 | ------------- | ------------- |
